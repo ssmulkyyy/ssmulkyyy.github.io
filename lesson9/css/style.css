@@ -1,0 +1,60 @@
+body {
+    line-height: 1.4;
+}
+.header span {
+	display: block;
+	font-size: 25px;
+	font-weight: 300;
+}
+.header strong, .feature-header, .clients-header {
+	font-size: 25px;
+	font-weight: 900;
+}
+
+.video, .header, .form {
+	margin-top: 30px;
+}
+.video {
+	margin-bottom: 30px;
+}
+.form p {
+    font-size: 20px;
+    font-weight: 900;
+}
+.form {
+	border: 4px solid #593ec7;
+	padding: 30px 20px;
+	vertical-align: top;
+}
+.form-btn {
+	margin-top: 30px;
+	background-color: #593ec7;
+}
+.form input {
+	margin-bottom: 12px;
+}
+ .feature-header, .clients-header {
+ 	margin-top: 80px;
+ }
+ .features {
+ 	font-size: 17px;
+ 	font-weight: 550;
+ 	margin-top: 5px;
+ }
+ .feature-box span {
+ 	display: block;
+ }
+ .feature-box {
+   font-size: 15px;
+   font-weight: 300;
+   padding-top: 60px;
+ }
+ .clients-header {
+  margin-bottom: 50px;
+ }
+ .clients-box {
+ 	margin-top: 25px;
+ }
+ .clients {
+ 	margin-bottom: 50px;
+ }
