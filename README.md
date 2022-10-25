@@ -11,3 +11,7 @@
 
 [Урок 7](https://ssmulkyyy.github.io/lesson_7/ "Верстка первого макета")-Верстка первого макета
 
+[Урок 8](https://ssmulkyyy.github.io/lesson8/ "Преимущества")-Верстка на Bootstrap
+
+
+
