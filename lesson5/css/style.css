@@ -1,0 +1,22 @@
+.header-1, .header-2 {
+	text-align: center;
+}
+.header-2 {
+	text-decoration: underline;
+}
+.sentence-1 {
+	font-style: italic;
+}
+.sentence-2 {
+	font-weight: bold;
+}
+.picture {
+	text-align: center;
+}
+.header {
+	background-color: #fbe9e7;
+	height: 150px;
+	margin: 10px;
+	padding-top: 15px;
+	border: 5px solid red;
+}
