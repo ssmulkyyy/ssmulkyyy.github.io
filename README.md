@@ -19,4 +19,4 @@
 
 [Урок 13](https://ssmulkyyy.github.io/lesson13/ "Верстка нна PixelPerfect")-Верстка сайта с помощью PixelPerfect
 
-[Урок 14.1](https://ssmulkyyy.github.io/lesson14-part1/ "Верстка нового шаблона")-Создание шапки для нового макета
+[Практика часть 1](https://ssmulkyyy.github.io/lesson14-part1/ "Верстка нового шаблона")-Создание шапки для нового макета
