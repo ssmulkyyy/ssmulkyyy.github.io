@@ -24,3 +24,5 @@
 [Урок 14](https://ssmulkyyy.github.io/lesson14/ "Шрифты")-Подключение шрифтов
 
 [Практика часть 2](https://ssmulkyyy.github.io/practice-part2/ "Верстка нового шаблона")-Создание главного экрана для проэкта
+
+[Урок 11](https://ssmulkyyy.github.io/lesson15/ "Эффекты")-Псевдоклассы и псевдоэлементы
