@@ -28,3 +28,5 @@
 [Урок 15](https://ssmulkyyy.github.io/lesson15/ "Эффекты")-Псевдоклассы и псевдоэлементы
 
 [Практика часть 3](https://ssmulkyyy.github.io/practice-part3/ "Верстка нового шаблона")-Адаптация под разные форматы экрана
+
+[Урок 16](https://ssmulkyyy.github.io/lesson16/ "Эффекты")-Сдайдеры 
