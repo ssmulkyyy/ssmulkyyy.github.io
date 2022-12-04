@@ -29,6 +29,8 @@
 
 [Практика часть 3](https://ssmulkyyy.github.io/practice-part3/ "Верстка нового шаблона")-Адаптация под разные форматы экрана
 
-[Урок 16](https://ssmulkyyy.github.io/lesson16/ "Эффекты")-Слайдеры 
+[Урок 16](https://ssmulkyyy.github.io/lesson16/ "Слайдеры")-Слайдеры 
 
 [Практика часть 4](https://ssmulkyyy.github.io/practice-part-4/ "Верстка нового шаблона")-Верстка блока с преимуществами
+
+[Урок 17](https://ssmulkyyy.github.io/lesson17/ "Вслывающие окна")-Всплывающие окна
