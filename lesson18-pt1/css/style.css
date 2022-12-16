@@ -1,0 +1,84 @@
+body { 
+  font-size: 1.7rem;
+  background-color: black;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+  background-color: #03a5da;
+  color: white;
+  text-shadow: 1px 2px 3px black;
+}
+.tabs {
+  position: absolute;
+  display: block;
+  width: 47rem;
+  height: 35rem;
+  border: 2rem solid #03a5da;
+  border-radius: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 25%;
+}
+.nav-tabs {
+  transform: translateY(-5.56rem);
+  border-bottom: none;
+}
+a {
+  color: black;
+  background-color: white;
+}
+.nav>li>a {
+  padding: 5px 15px;
+}
+div {
+  background-color: #000000;
+}
+.form-input {
+  width: 88%;
+  height:  5rem;
+  margin-top: 2rem;
+  margin-left: 2.3rem;
+  padding-left: 1.1rem;
+  background-color: #1f1e1e;
+  border: none;
+}
+.form-input:focus {
+  color: white;
+}
+::placeholder {
+  color: white;
+}
+.password { 
+  color: #c51f03;
+  font-size: 1.4rem;
+  margin-top: 2rem;
+  margin-left: 4.3rem;
+}
+ .checkbox {
+  display: inline-block;
+  margin-left: 4.6;
+  transform: translateY(0.15rem);
+}
+.remember {
+  margin-top: 4rem;
+  display: inline-block;
+  font-size: 1.4rem;
+  color: #6f6d6d;
+}
+.remember-me {
+  display: inline-block;
+  margin-left: 4.5rem;
+}
+.button {
+  transform: translateX(176%);
+  width: 10rem;
+  height: 3.8rem;
+  border: none;
+  color: white;
+  text-shadow: 1px 2px 3px black;
+  background-color: #9e1102;
+}
+.button-1 {
+  transform: translateX(155%);
+  width: auto;
+  margin-top: 1rem;
+}
