@@ -36,3 +36,7 @@
 [Урок 17](https://ssmulkyyy.github.io/lesson17/ "Вслывающие окна")-Всплывающие окна
 
 [Практика часть 5](https://ssmulkyyy.github.io/practice-part5/ "Верстка всплывающего окна")-Верстка всплывающего окна
+
+[Урок 18 часть 1](https://ssmulkyyy.github.io/lesson18-pt1/ "Табы")-Верстка табов
+
+[Урок 18 часть 2](https://ssmulkyyy.github.io/lesson18-pt2/ "Аккордеон")-Верстка аккордеона
