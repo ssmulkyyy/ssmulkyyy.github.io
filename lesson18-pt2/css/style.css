@@ -1,0 +1,29 @@
+.accordion {
+	margin-top: 6rem;
+}
+.answers {
+	font-size: 3rem;
+	text-align: center;
+	line-height: 0.7;
+	font-weight: 300;
+}
+.header {
+	text-align: center;
+	margin-top: 3%;
+}
+h1 {
+	font-size: 3rem;
+	font-weight: 800;
+	text-transform: uppercase;
+	color: #0bbaf0;
+}
+p {
+	color: #0bbaf0;
+}
+.panel-default>.panel-heading {
+    color: white;
+    background-color: #0bbaf0;
+    border: none;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
