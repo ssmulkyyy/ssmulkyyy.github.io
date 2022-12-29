@@ -23,11 +23,13 @@
 
 [Урок 14](https://ssmulkyyy.github.io/lesson14/ "Шрифты")-Подключение шрифтов
 
-[Практика часть 2](https://ssmulkyyy.github.io/practice-part2/ "Верстка нового шаблона")-Создание главного экрана для проэкта
+[Практика часть 5](https://ssmulkyyy.github.io/practice-part2/ "Верстка нового шаблона")-Создание главного экрана для проэкта
 
 [Урок 15](https://ssmulkyyy.github.io/lesson15/ "Эффекты")-Псевдоклассы и псевдоэлементы
 
 [Практика часть 3](https://ssmulkyyy.github.io/practice-part3/ "Верстка нового шаблона")-Адаптация под разные форматы экрана
+
+[Практика часть 6](https://ssmulkyyy.github.io/practice-part6/ "Верстка нового шаблона")-Верстка блока с ценами
 
 [Урок 16](https://ssmulkyyy.github.io/lesson16/ "Слайдеры")-Слайдеры 
 
@@ -40,3 +42,5 @@
 [Урок 18 часть 1](https://ssmulkyyy.github.io/lesson18-pt1/ "Табы")-Верстка табов
 
 [Урок 18 часть 2](https://ssmulkyyy.github.io/lesson18-pt2/ "Аккордеон")-Верстка аккордеона
+
+[Практика часть 6](https://ssmulkyyy.github.io/practice-part6/ "Верстка всплывающего окна")-Верстка блока с преимуществами
