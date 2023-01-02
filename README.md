@@ -44,3 +44,5 @@
 [Урок 18 часть 2](https://ssmulkyyy.github.io/lesson18-pt2/ "Аккордеон")-Верстка аккордеона
 
 [Практика часть 6](https://ssmulkyyy.github.io/practice-part6/ "Верстка всплывающего окна")-Верстка блока с преимуществами
+
+[Урок 19](https://ssmulkyyy.github.io/lesson19/ "Анимация")-Анимация
