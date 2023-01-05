@@ -46,3 +46,6 @@
 [Практика часть 6](https://ssmulkyyy.github.io/practice-part6/ "Верстка всплывающего окна")-Верстка блока с преимуществами
 
 [Урок 19](https://ssmulkyyy.github.io/lesson19/ "Анимация")-Анимация
+
+[Практика часть 7](https://ssmulkyyy.github.io/practice-part6/ "Верстка блока с отзывами")-Верстка блока с отзывами
+
