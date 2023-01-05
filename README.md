@@ -47,5 +47,5 @@
 
 [Урок 19](https://ssmulkyyy.github.io/lesson19/ "Анимация")-Анимация
 
-[Практика часть 7](https://ssmulkyyy.github.io/practice-part6/ "Верстка блока с отзывами")-Верстка блока с отзывами
+[Практика часть 7](https://ssmulkyyy.github.io/practice-part7/ "Верстка блока с отзывами")-Верстка блока с отзывами
 
