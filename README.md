@@ -51,3 +51,4 @@
 
 [Урок 20](https://ssmulkyyy.github.io/lesson20/ "Видео-фон")-Видео-фон
 
+[Практика часть 8](https://ssmulkyyy.github.io/practice-part-8/ "Верстка блока с отзывами")-Верстка блока с отзывами
