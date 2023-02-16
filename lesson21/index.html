@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<section class="white">
+		<div class="rellax one" data-rellax-speed="7">
+            <img src="img/1.png" alt="">
+        </div>
+        <div class="rellax two" data-rellax-speed="1">
+            <img src="img/2.png" alt="">
+        </div>
+	</section>
+	<section class="parallax-window" data-parallax="scroll" data-image-src="img/1-2.jpg"></section>
+
+	<script src="https://cdn.jsdelivr.net/gh/dixonandmoe/rellax@master/rellax.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="js/parallax.min.js"></script>
+	<script>
+        var rellax = new Rellax('.rellax');
+    </script>
+    <script>
+    	$('.parallax-window').parallax({imageSrc: 'img/1-2.jpg'});
+    </script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+section {
+	height: 100vh;
+}
+.rellax {
+	margin-top: 10rem;
+	display: inline-block;
+}
+img {
+	height: 20rem;
+	width: auto;
+}
+.one {
+    position: absolute;
+	left: 20% ;
+}
+.two {
+	position: absolute;
+	left: 60% ;
+}
