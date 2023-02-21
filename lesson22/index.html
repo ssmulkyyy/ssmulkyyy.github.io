@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/favicon.ico">
+    <title>Карта Яндекс</title>
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <script src="https://api-maps.yandex.ru/2.1/?apikey=ваш API-ключ&lang=ru_RU" type="text/javascript"></script>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+  <div id="map" style="width: 100%; height: 600px"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="red">
+          <h2>Контакты</h2>
+          <p>г. Москва, Варшавское шоссе, дом 16, корпус 1, офис №8</p>
+          <p>200 от м. Театральная</p>
+          <p>+7 (499) 409-87-25</p>
+          <p class="link">info@vashsite.ru</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <main class="main">
+    <div class="container">
+     <div class="row">
+      <div class="header">
+        <div class="col-md-1">
+          <img src="img/logo.png" alt="Техника пожарной безопасности">
+        </div>
+        <div class="col-md-1">
+          <p class="technology">Технологии Пожарной Безопасности</p>
+        </div>
+        <div class="col-md-3 col-md-offset-2 sertification">
+          <p>Сертификация пожарной безопасности Работаем по России и странам СНГ</p>
+        </div>
+        <div class="col-md-3 col-md-offset-2">
+          <p class="number">+7 (499) 409-87-25</p>
+          <p class="address">г. Москва, Варшавское шоссе,дом 16, корпус 1, офис №8</p>
+        </div>
+      </div>
+      </div>
+    </div>
+  </main>
+   </script>
+    <script type="text/javascript">
+       ymaps.ready(function () {
+    var myMap = new ymaps.Map('map', {
+            center: [55.693194, 37.621018],
+            zoom: 7
+        }, {
+            searchControlProvider: 'yandex#search'
+        }),
+
+        // Создаём макет содержимого.
+        MyIconContentLayout = ymaps.templateLayoutFactory.createClass(
+            '<div style="color: #FFFFFF; font-weight: bold;">$[properties.iconContent]</div>'
+        ),
+
+        myPlacemark = new ymaps.Placemark(myMap.getCenter(), {
+            hintContent: 'Техники пожарной безопасности',
+            balloonContent: 'Сертификация поафрной безопасности'
+        }, {
+            // Опции.
+            // Необходимо указать данный тип макета.
+            iconLayout: 'default#image',
+            // Своё изображение иконки метки.
+            iconImageHref: 'images/myIcon.gif',
+            // Размеры метки.
+            iconImageSize: [30, 42],
+            // Смещение левого верхнего угла иконки относительно
+            // её "ножки" (точки привязки).
+            iconImageOffset: [-5, -38]
+        }),
+
+        myPlacemarkWithContent = new ymaps.Placemark([55.661574, 37.573856], {
+            hintContent: 'Вилиса Лациса ул .,7 корпус 4',
+            balloonContent: 'Техника пожарной безопасности',
+            iconContent: ''
+        }, {
+            // Опции.
+            // Необходимо указать данный тип макета.
+            iconLayout: 'default#imageWithContent',
+            // Своё изображение иконки метки.
+            iconImageHref: 'img/ball.png',
+            // Размеры метки.
+            iconImageSize: [48, 48],
+            // Смещение левого верхнего угла иконки относительно
+            // её "ножки" (точки привязки).
+            iconImageOffset: [-24, -24],
+            // Смещение слоя с содержимым относительно слоя с картинкой.
+            iconContentOffset: [15, 15],
+            // Макет содержимого.
+            iconContentLayout: MyIconContentLayout
+        });
+
+    myMap.geoObjects
+        .add(myPlacemark)
+        .add(myPlacemarkWithContent);
+});
+    </script>
+  <script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>

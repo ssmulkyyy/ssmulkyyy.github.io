@@ -1,0 +1,47 @@
+#map {
+	position: absolute;
+}
+.red {
+	height: 60rem;
+	z-index: 2;
+	background: #c60b0b;
+	color: white;
+	text-align: center;
+	padding: 13rem 4rem;
+}
+.red h2 {
+	font-size: 3.5rem;
+}
+.red p {
+	display: block;
+	padding-top: 3rem;
+	font-size: 1.7rem;
+}
+.link {
+	font-size: 2rem;
+	text-decoration: underline;
+}
+.header {
+	padding-top: 3rem;
+}
+.number {
+	display: block;
+	font-weight: bold;
+	color: black;
+	font-size: 1.9rem;
+	padding-bottom: 0.1rem;
+	height: 2rem;
+}
+.address {
+	font-size: 1.3rem;
+	font-weight: bold;
+}
+.sertification {
+	text-align: center;
+	padding-top: 1rem;
+	color: gray;
+}
+.technology {
+	padding-top: 0.5rem;
+	font-weight: 600;
+}
